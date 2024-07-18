@@ -1,0 +1,44 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+}
+
+.post {
+    background: white;
+    height: 60%;
+    width: 400px;
+    margin: 40px auto;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-header div i {
+    font-size: 25px;
+}
+
+.body-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    display: flex;
+}
+.left-text{
+    font-size: 12px;
+    padding-top: 2px;
+}
+.fa-html5{
+    padding: 5px;
+}
+.fa-ellipsis-vertical{
+    padding: 5px;
+}
+.post-body{
+    padding: 5px;
+}
