@@ -15,6 +15,7 @@ body {
 .post-header {
     display: flex;
     justify-content: space-between;
+    padding: 5px;
 }
 
 .post-header div i {
